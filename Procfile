@@ -1,1 +1,1 @@
-web: gunicorn avocado_analtyics.app:server
+web: gunicorn app:server
